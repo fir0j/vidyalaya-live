@@ -1,0 +1,40 @@
+/* Inter fonts */
+
+@font-face {
+	font-family: 'Inter-Regular';
+	src: local('Inter-Regular'), url('../fonts/inter/Inter-Regular.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Inter-Medium';
+	src: local('Inter-Medium'), url('../fonts/inter/Inter-Medium.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Inter-SemiBold';
+	src: local('Inter-SemiBold'), url('../fonts/inter/Inter-SemiBold.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Inter-Bold';
+	src: local('Inter-Bold'), url('../fonts/inter/Inter-Bold.ttf') format('ttf');
+}
+
+/* Roboto fonts */
+
+@font-face {
+	font-family: 'Roboto-Regular';
+	src: local('Roboto-Regular'), url('../fonts/roboto/Roboto-Regular.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Roboto-Medium';
+	src: local('Roboto-Medium'), url('../fonts/roboto/Roboto-Medium.ttf') format('ttf');
+}
+
+/* Nunito fonts */
+
+@font-face {
+	font-family: 'Nunito-Regular';
+	src: local('Nunito-Regular'), url('../fonts/nunito/Nunito-Regular.ttf') format('ttf');
+}
